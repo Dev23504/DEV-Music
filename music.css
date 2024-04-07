@@ -1,0 +1,307 @@
+body{
+    background-color: black;
+}
+
+#ma{
+    /* border: solid red; */
+    /* background-color: black; */
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+   
+}
+#log{
+    /* border: solid red; */
+    width: 100%;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#dev{
+    height: 150px;
+}
+#DEV{
+    /* border: solid blue; */
+    /* height: 200px; */
+    background-color: dimgray ;
+    border-radius: 70px;
+    
+    box-shadow: 5px 5px 20px goldenrod ; 
+
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: peachpuff;
+}
+
+.d-flex{
+    /* border: solid blue; */
+    height: 80%;
+   
+    display: flex;
+    align-items: center;
+}
+.search{
+    height: auto;
+}
+.btn{
+    height: auto;
+    border-radius: 20px 20px 20px 20px;
+    
+    background-color: beige;
+   /* color: brown; */
+   
+  
+}
+#a{
+   
+    text-decoration: none;
+    color: black;
+  
+}
+
+
+#Box{
+     /* border: solid red; */
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     height: 100%;
+     gap: 50px;
+     align-items: center;
+}
+audio{
+    width: 150px;
+   
+}
+#st{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(mumma.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    
+}
+
+
+
+#nd{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(papa\ meri.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#rd{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(ounchi\ ounchi.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+   
+}
+
+#th{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(behna.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    /* background-position: center; */
+}
+
+#fth{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(kesriya.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#fth{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(SHIDDAT1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+#six{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(pehle\ hi\ me.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#s7{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(yara\ teri\ yari.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+#e8{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(khamm\ ghani.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#n9{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(oo\ mere\ dil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#ten{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(jalalo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#e11{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(tere\ nal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#t12{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(agar\ tum\ sath.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#th13{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(apa\ milaange2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+#ft14{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(kesariya.1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+#f15{
+    border: solid;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image:url(tera\ yar\ hu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
